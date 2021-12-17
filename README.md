@@ -16,9 +16,9 @@ _수학적 사고로 접근, 분석하는 데이터 분석가
 - 2021.02 ~ 현재  
   Data Analyst가 되기 위한 공부중 📖  
    > Python 언어  
-   > Python 기반 데이터 분석 및 시각화
-   > Data literacy
-   > Oracle SQL
+   > Python 기반 데이터 분석 및 시각화  
+   > Data literacy  
+   > Oracle SQL  
   
 - 2019.06 ~ 2021.01  
   스포츠투아이 DB기획팀 근무 ⚾  
